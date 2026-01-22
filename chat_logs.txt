@@ -1,0 +1,86 @@
+[2026-01-21 14:37:36.715193] User: hi
+[2026-01-21 14:37:36.715193] Bot: Hi there!
+[2026-01-21 14:37:49.556726] User: how are you
+[2026-01-21 14:37:49.556726] Bot: I'm not sure I understood that. Could you please rephrase?
+[2026-01-21 14:39:36.984804] User: exit
+[2026-01-21 14:39:36.984804] Bot: See you later!
+[2026-01-21 14:39:39.837544] User: bye
+[2026-01-21 14:39:39.837544] Bot: Goodbye!
+[2026-01-21 14:39:58.214770] User: hi
+[2026-01-21 14:39:58.214770] Bot: I'm not sure I understood that. Could you please rephrase?
+[2026-01-21 14:40:16.834139] User: Hi
+[2026-01-21 14:40:16.834139] Bot: I'm not sure I understood that. Could you please rephrase?
+[2026-01-21 14:40:38.931635] User: Hi
+[2026-01-21 14:40:38.931635] Bot: I'm not sure I understood that. Could you please rephrase?
+[2026-01-21 14:41:53.600239] User: & C:/Users/hellonbro/AppData/Local/Programs/Python/Python313/python.exe c:/Users/hellonbro/chatbot/main.py
+[2026-01-21 14:41:53.600239] Bot: I'm not sure I understood that. Could you please rephrase?
+[2026-01-21 14:42:08.685212] User: Hi
+[2026-01-21 14:42:08.685212] Bot: Hello! How can I assist you?
+[2026-01-21 14:42:17.981193] User: Who created you?
+[2026-01-21 14:42:17.981193] Bot: I was created as part of a machine learning academic project.
+[2026-01-21 14:42:45.594442] User: hi
+[2026-01-21 14:42:45.594442] Bot: Hi there! What can I do for you?
+[2026-01-22 10:32:09.592517] User: what can you do?
+[2026-01-22 10:32:09.592517] Bot: Hello! How can I assist you?
+[2026-01-22 10:32:32.756499] User: okay
+[2026-01-22 10:32:32.756499] Bot: Hello! How can I assist you?
+[2026-01-22 10:33:05.477194] User: exit
+[2026-01-22 10:33:05.477194] Bot: Goodbye! Have a nice day.
+[2026-01-22 10:33:19.138910] User: good bye
+[2026-01-22 10:33:19.138910] Bot: Hi there! What can I do for you?
+[2026-01-22 10:33:37.893634] User: hi
+[2026-01-22 10:33:37.893634] Bot: Hi there! What can I do for you?
+[2026-01-22 10:33:55.586882] User: thanks
+[2026-01-22 10:33:55.586882] Bot: Happy to help!
+[2026-01-22 10:34:11.294075] User: who are you
+[2026-01-22 10:34:11.294075] Bot: Hi there! What can I do for you?
+[2026-01-22 10:34:20.375056] User: who are you?
+[2026-01-22 10:34:20.375056] Bot: Hi there! What can I do for you?
+[2026-01-22 10:34:41.773968] User: Who are you?
+[2026-01-22 10:34:41.773968] Bot: Hi there! What can I do for you?
+[2026-01-22 10:38:54.004130] User: hi
+[2026-01-22 10:38:54.004130] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:01.520305] User: thanks
+[2026-01-22 10:39:01.520305] Bot: You're welcome!
+[2026-01-22 10:39:09.269960] User: exit
+[2026-01-22 10:39:09.269960] Bot: Goodbye! Have a nice day.
+[2026-01-22 10:39:23.863938] User: What can you do?
+[2026-01-22 10:39:23.863938] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:38.291134] User: Who made you?
+[2026-01-22 10:39:38.291134] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:39.583443] User: 
+[2026-01-22 10:39:39.583443] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:40.015467] User: 
+[2026-01-22 10:39:40.015467] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:40.449261] User: 
+[2026-01-22 10:39:40.449261] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:41.744309] User: 
+[2026-01-22 10:39:41.744309] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:41.946280] User: 
+[2026-01-22 10:39:41.946280] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:42.080916] User: 
+[2026-01-22 10:39:42.080916] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:42.580555] User: 
+[2026-01-22 10:39:42.580555] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:42.621352] User: 
+[2026-01-22 10:39:42.621352] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:42.642009] User: 
+[2026-01-22 10:39:42.642009] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:42.669487] User: 
+[2026-01-22 10:39:42.669487] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:42.700159] User: 
+[2026-01-22 10:39:42.700159] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:42.734483] User: 
+[2026-01-22 10:39:42.734483] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:42.761058] User: 
+[2026-01-22 10:39:42.761058] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:42.796368] User: 
+[2026-01-22 10:39:42.796368] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:42.824449] User: 
+[2026-01-22 10:39:42.824449] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:42.851282] User: 
+[2026-01-22 10:39:42.851282] Bot: Hello! How can I assist you?
+[2026-01-22 10:39:42.887071] User: 
+[2026-01-22 10:39:42.887071] Bot: Hi there! What can I do for you?
+[2026-01-22 10:39:42.911860] User: 
+[2026-01-22 10:39:42.911860] Bot: Hi there! What can I do for you?
