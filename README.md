@@ -55,14 +55,14 @@ chatbot/
 
 ## 📦 Installation
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-###2️⃣ Create a virtual environment (optional but recommended)
+2️⃣ Create a virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
-###3️⃣ Install dependencies
+3️⃣ Install dependencies
 pip install -r requirements.txt
 ▶️ How to Run
 python main.py
